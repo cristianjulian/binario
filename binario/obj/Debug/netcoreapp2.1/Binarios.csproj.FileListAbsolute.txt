@@ -1,0 +1,11 @@
+C:\Users\Usuario\Binarios\obj\Debug\netcoreapp2.1\Binarios.csprojAssemblyReference.cache
+C:\Users\Usuario\Binarios\obj\Debug\netcoreapp2.1\Binarios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Binarios\obj\Debug\netcoreapp2.1\Binarios.AssemblyInfoInputs.cache
+C:\Users\Usuario\Binarios\obj\Debug\netcoreapp2.1\Binarios.AssemblyInfo.cs
+C:\Users\Usuario\Binarios\bin\Debug\netcoreapp2.1\Binarios.deps.json
+C:\Users\Usuario\Binarios\bin\Debug\netcoreapp2.1\Binarios.runtimeconfig.json
+C:\Users\Usuario\Binarios\bin\Debug\netcoreapp2.1\Binarios.runtimeconfig.dev.json
+C:\Users\Usuario\Binarios\bin\Debug\netcoreapp2.1\Binarios.dll
+C:\Users\Usuario\Binarios\bin\Debug\netcoreapp2.1\Binarios.pdb
+C:\Users\Usuario\Binarios\obj\Debug\netcoreapp2.1\Binarios.dll
+C:\Users\Usuario\Binarios\obj\Debug\netcoreapp2.1\Binarios.pdb
